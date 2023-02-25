@@ -15,9 +15,10 @@
       "resolveJsonModule": true,
       "isolatedModules": true,
       "noEmit": true,
-      "jsx": "react"
+      "jsx": "react",
+      "target": "ESNext"
     },
     "include": [
       "src"
-    ]
+, "webpack.config.ts"    ]
   }
